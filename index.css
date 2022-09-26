@@ -1,11 +1,10 @@
 body{
-
-    background: rgba(204, 204, 204, 0.651)
-
+  background: linear-gradient(to bottom, rgb(67, 238, 0), rgb(56, 240, 0));
 }
 
 h1  {
 
+  
     color :blue
     text-aling: center;
 

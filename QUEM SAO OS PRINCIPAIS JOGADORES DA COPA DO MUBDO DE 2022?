@@ -2,7 +2,13 @@
 <HTML lang="pt-br>"
 
     <head>
-    <META CHARSET "UTF-8">
+        <META CHARSET "UTF-8">
+        <link-styleshet-style.css>
+        <title> PRINCIPAIS JOGADORES DO FUTEBOL </title>
+    </head>
+
+    <body>
+       
     
 Quem sao os principais jogadores da copa do mundo de 2022?
 ATACANTES
@@ -18,7 +24,7 @@ Neymar, mesmo não tendo conquistado tanto quanto Messi e Ronaldo, é um jogador
 
 ZAGUEIROS
  
- “Os 3 melhores zagueiros do mundo? Sergio Ramos, Pique e Van Dijk.”
+ “Os 3 melhores zagueiros do mundo? Sergio Ramos (PSG), Pique (BARCELONA) e Van Dijk (LIVERPOL).”
  
  MEIOS DE CAMPO
  - Kevin De Bruyne (Manchester City)
@@ -26,3 +32,7 @@ ZAGUEIROS
 -Toni Kross (Real Madrid)
 
  - Luka Modric (Real Madrid)
+
+       </body>
+
+</html>

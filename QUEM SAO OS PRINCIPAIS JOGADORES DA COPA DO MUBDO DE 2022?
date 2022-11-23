@@ -4,11 +4,14 @@
     <head>
         <META CHARSET "UTF-8">
         <link-styleshet-style.css>
-        <title> PRINCIPAIS JOGADORES DO FUTEBOL </title>
+        <title> JOGADORES DA Copa </title>
     </head>
 
     <body>
-    <img class="imagem"src="aa.jpeg" alt="Messi">
+        <br>
+        <br>
+       <img class="imagem"src="aa.jpeg" alt="melhores jogadores">
+    
 Quem sao os principais jogadores da copa do mundo de 2022?
 ATACANTES
 
@@ -20,9 +23,10 @@ Messi certamente é o melhor jogador de futebol de sua geração, mas o troféu 
 
 Neymar Jr.
 Neymar, mesmo não tendo conquistado tanto quanto Messi e Ronaldo, é um jogador de habilidades indiscutíveis, provavelmente um dos mais habilidosos dos últimos anos.
- ZAGUEIROS
+
+ZAGUEIROS
  
- “Os 3 melhores zagueiros do mundo? Sergio Ramos, Pique e Van Dijk.”
+ “Os 3 melhores zagueiros do mundo? Sergio Ramos (PSG), Pique (BARCELONA) e Van Dijk (LIVERPOL).”
  
  MEIOS DE CAMPO
  - Kevin De Bruyne (Manchester City)
@@ -30,3 +34,16 @@ Neymar, mesmo não tendo conquistado tanto quanto Messi e Ronaldo, é um jogador
 -Toni Kross (Real Madrid)
 
  - Luka Modric (Real Madrid)
+
+       </body>
+
+       <nav>
+        <ul>
+          <li> <a href="index.html">inicio</a> </li>
+          <li> <a href="principais.html">PRINCIPAIS jogadores</a> </li>
+        </ul>
+      
+      </nav>
+      
+
+</html>

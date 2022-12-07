@@ -1,33 +1,40 @@
 
 
-body{
-  background-color: rgb(117, 187, 216)
+
+
+main{
+  
+  background-color: rgb(117, 187, 216);
 }
+
+
+
 
 h1  {
-
-  nav{
-    font-size:30px;
-  }
-
-  nav li{
-    display:inline;
-    margin:0 0 0 30%;
-  }
-    color :blue
-    text-aling: center;
-
+font-size: 30px;
+  
 }
 
-h2 {
+nav{
+  font-size:30px;
+}
+
+nav li{
+  display:inline;
+  margin:0 0 0 30%;
+  color :blue
+ }
+  
+
+/*h2 {
     color: blue;
     text-align:center;
 
-}
+}*
 
-#FUTEBOL{
+/*#FUTEBOL{
  color: blue;
-}
+}*/
 
 
 

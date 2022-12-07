@@ -1,49 +1,96 @@
-<DOCTYPE HTML>
-<HTML lang="pt-br>"
+<!DOCTYPE html>
+<html lang="pt-br">
 
-    <head>
-        <META CHARSET "UTF-8">
-        <link-styleshet-style.css>
-        <title> JOGADORES DA Copa </title>
-    </head>
-
-    <body>
-        <br>
-        <br>
-       <img class="imagem"src="aa.jpeg" alt="melhores jogadores">
+<head>
+  
     
-Quem sao os principais jogadores da copa do mundo de 2022?
-ATACANTES
+ <title>COPA DO MUNDO 2022</title>
+  <meta charset="UTF"-8>
+  <link rel="stylesheet"href="index.css">
+        <title>COPA DO MUNDO 2022</title>
+  </head>
+<header>   
 
-Cristiano Ronaldo
-Cristiano Ronaldo é um grande monstro da história do futebol, conseguindo proezas e recordes que dificilmente serão ultrapassados por outro jogador.
+      <img class="imagem" src="COPA.png" alt="simbolo da COPA DO MUNDO 2022">
 
-Lionel Messi
-Messi certamente é o melhor jogador de futebol de sua geração, mas o troféu da Copa do Mundo é algo que o assombra desde sempre. Ele conseguiu ganhar quase tudo que era possível quando jogava pelo Barcelona e pela seleção Argentina, faltando exatamente o troféu do maior campeonato do mundo.
+      <nav>
+<li>
 
-Neymar Jr.
-Neymar, mesmo não tendo conquistado tanto quanto Messi e Ronaldo, é um jogador de habilidades indiscutíveis, provavelmente um dos mais habilidosos dos últimos anos.
 
-ZAGUEIROS
- 
- “Os 3 melhores zagueiros do mundo? Sergio Ramos (PSG), Pique (BARCELONA) e Van Dijk (LIVERPOL).”
- 
- MEIOS DE CAMPO
- - Kevin De Bruyne (Manchester City)
+</li>
 
--Toni Kross (Real Madrid)
-
- - Luka Modric (Real Madrid)
-
-       </body>
-
-       <nav>
-        <ul>
-          <li> <a href="index.html">inicio</a> </li>
-          <li> <a href="principais.html">PRINCIPAIS jogadores</a> </li>
-        </ul>
-      
       </nav>
-      
 
-</html>
+</header>
+      <body>
+
+      
+       A Copa do Mundo FIFA de 2022 ou Campeonato Mundial de Futebol FIFA de 2022 é a vigésima segunda edição deste evento esportivo, um torneio internacional de futebol masculino organizado pela FIFA (Federação Internacional de Futebol), que está ocorrendo no Catar. Esta edição é a primeira realizada no Oriente Médio e, é a última a ter o formato de 32 equipes, pois terá uma mudança no formato e número de equipes na edição de 2026, cuja sede será no Canadá, Estados Unidos e México, passando para 48 equipes. 
+
+                 EQUIPES QUE ESTÃO PARTICIPANDO DA COPA DO MUNDO 2022
+
+<ul>
+<li>Catar</li>
+
+<li>Equador</li>
+
+
+<li>Holanda</li>
+
+<li>Senegal</li>
+</li>C
+<li>Argentina</li>
+
+<li>Arábia Saudita</li></li>C
+<li>França</li>
+
+<li>Dinamarca</li>
+
+<li>Tunísia</li>
+
+<li>Austrália</li>
+
+<li>Espanha</li>
+
+<li>Espanha</li>
+
+<li>Alemanha</li>
+
+<li>Japão</li>
+
+<li>costa Rica
+
+Bélgica
+
+Canadá
+
+Marrocos
+
+Croácia
+
+Brasil
+
+Sérvia
+
+Suíça
+
+Camarões
+
+Portugal
+
+Gana<br>
+<br>
+Uruguai<br>
+<br>
+Coreia do Sul"<br>
+
+<nav>
+      <ul>
+        <li> <a href="index.html">inicio</a> </li>
+        <li> <a href="principais.html">PRINCIPAIS jogadores</a> </li>
+      </ul>
+    
+    </nav>
+    
+      </body>
+           </html>
